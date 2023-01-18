@@ -1,0 +1,50 @@
+Name = Aastik Mehta
+Roll No.=2210991131
+
+BASIC GIT COMMANDS
+
+*pwd=>present working directiory
+$pwd
+
+*git version=>It tells the version of thee git of our system 
+$git version
+
+*git config=> It is used to provide information 
+$git config --global user.email ""
+$git config --global user.name ""
+
+*git init=>It creates empty repository
+$git init
+
+*touch=>It is used to create a folder
+$ touch
+
+*vi=>It is used to add items in folder
+$ vi
+
+*status=>It is used to track all files
+$git status
+
+*cat=>It is used to display contents of the file
+$git cat
+
+*ls=>It is used to show list of all folders
+$ls
+
+*log=>To track files
+$git log
+
+*commit=>It is used to save the changes
+$git commit -m "First commit"
+$git commit -a -m ""
+
+*history=>It provides the collection of all snapshots
+$history
+
+*cd=>Used to enter in the file
+$cd 
+
+*cd..=>Used to exit from file
+$cd.. 
+
+
